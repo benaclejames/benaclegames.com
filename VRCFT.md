@@ -5,6 +5,7 @@ Allows for full facial tracking within VRChat using avatar parameters. Uses in-d
 The app also supports external tracking libraries too, so future hardware can be supported via community-made sdk wrappers
 
 ## Examples
+https://www.youtube.com/watch?v=5h4_mYDcgzM
 https://twitter.com/Benaclejames/status/1494864147351281671
 https://twitter.com/Benaclejames/status/1496561035213426699
 https://twitter.com/kentrl_z/status/1497020472046800897
